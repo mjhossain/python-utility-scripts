@@ -1,3 +1,7 @@
+# Developer: Mohammed J Hossain
+# github @mjhossain
+# Created: 06/24/2020
+
 import subprocess
 import os, os.path
 import re
